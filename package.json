@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/airondumael/is_cache/issues"
   },
-  "homepage": "https://github.com/airondumael/is_cache"
+  "homepage": "https://github.com/airondumael/is_cache",
+  "dependencies": {
+    "lodash": "^3.5.0"
+  }
 }
