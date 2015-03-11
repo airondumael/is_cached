@@ -1,26 +1,26 @@
 {
-  "name": "is_cache",
-  "version": "0.0.1",
-  "description": "Helper for caching in nodejs.",
-  "main": "lib/is_cache.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/airondumael/is_cache.git"
-  },
-  "keywords": [
-    "node",
-    "cache"
-  ],
-  "author": "Airon Paul Dumael",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/airondumael/is_cache/issues"
-  },
-  "homepage": "https://github.com/airondumael/is_cache",
-  "dependencies": {
-    "lodash": "^3.5.0"
-  }
+    "name": "is_cached",
+    "version": "0.0.1",
+    "description": "Helper for caching in nodejs.",
+    "main": "lib/is_cached.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/airondumael/is_cached.git"
+    },
+    "keywords": [
+        "node",
+        "cache"
+    ],
+    "author": "Airon Paul Dumael",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/airondumael/is_cached/issues"
+    },
+    "homepage": "https://github.com/airondumael/is_cached",
+    "dependencies": {
+        "lodash": "^3.5.0"
+    }
 }
